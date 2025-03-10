@@ -1,2 +1,2 @@
 # BAE305_Lab7_BCooper
- 
+ My name is Brynn Cooper and I am in the Monday Circuit Lab for BAE305. I think GitHub is more valuable just because I believe it is easier to understand, but Git / Git Desktop seems better when using extensive code. I made this in the README file in my respository.
